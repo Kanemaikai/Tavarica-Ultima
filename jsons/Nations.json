@@ -10,7 +10,7 @@
 		"name": "Anthu Oyera",
 		"leaderName": "Mandolo Mbasufa",
 		"adjective": ["Anthuyi"],
-		"startBias": ["Plains", ",Hill", "Avoid [Tundra]"],
+		"startBias": ["Plains", "Hill", "Avoid [Tundra]"],
 		"preferredVictoryType": "",
 
 		"startIntroPart1": "",
@@ -75,7 +75,7 @@
 		"innerColor": [121, 61, 3],
 		"uniqueName": "",
 		"uniques": [""],
-		"cities": ["Q'uacfrt"],
+		"cities": ["Q'uacfürt"],
     "spyNames": [""]
    },
    {
@@ -106,7 +106,7 @@
 		"name": "Islanoa",
 		"leaderName": "Simeon von Neumann",
 		"adjective": ["Islanoan"],
-		"startBias": ["Plains", "Coast", "Avoid Tundra"],
+		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "",
 
 		"startIntroPart1": "",
@@ -128,9 +128,9 @@
    },
    {
 		"name": "Revanori",
-		"leaderName": "Knius II",
+		"leaderName": "Kānius II",
 		"adjective": ["Revani"],
-		"startBias": ["Plains", "Coast", "Avoid Tundra"],
+		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "",
 
 		"startIntroPart1": "",
@@ -154,7 +154,7 @@
 		"name": "Sor Fathur",
 		"leaderName": "Schaefers IV",
 		"adjective": ["Fathurian"],
-		"startBias": ["Desert", "Fresh water", "Avoid Grassland"],
+		"startBias": ["Desert", "Fresh water", "Avoid [Grassland]"],
 		"preferredVictoryType": "",
 
 		"startIntroPart1": "",
