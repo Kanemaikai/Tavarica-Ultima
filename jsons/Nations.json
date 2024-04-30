@@ -25,7 +25,6 @@
 
 		"outerColor": [22, 108, 49],
 		"innerColor": [120, 1, 2],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Anthuwuni"],
@@ -50,7 +49,6 @@
 
 		"outerColor": [56, 4, 102],
 		"innerColor": [254, 2, 254],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Teraleva"],
@@ -75,7 +73,6 @@
 
 		"outerColor": [249, 249, 249],
 		"innerColor": [121, 61, 3],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Q'uacfrt"],
@@ -100,7 +97,6 @@
 
 		"outerColor": [254, 179, 61],
 		"innerColor": [4, 44, 109],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Blumenheim"],
@@ -125,7 +121,6 @@
 
 		"outerColor": [4, 44, 109],
 		"innerColor": [247, 216, 3],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Ofanburg"],
@@ -150,7 +145,6 @@
 
 		"outerColor": [117, 1, 116],
 		"innerColor": [249, 249, 249],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Revanori"],
@@ -175,7 +169,6 @@
 
 		"outerColor": [181, 181, 181],
 		"innerColor": [121, 1, 2],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Ganheirsbeurgs"],
@@ -200,7 +193,6 @@
 
 		"outerColor": [120, 1, 2],
 		"innerColor": [117, 163, 243],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Murkov"],
@@ -225,7 +217,6 @@
 
 		"outerColor": [51, 51, 51],
 		"innerColor": [249, 249, 249],
-		"favoredReligion": "",
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Isyo"]
