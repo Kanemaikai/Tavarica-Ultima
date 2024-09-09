@@ -11,7 +11,7 @@
 		"leaderName": "Mandolo Mbasufa",
 		"adjective": ["Anthuyi"],
 		"startBias": ["Plains", "Hill", "Avoid [Tundra]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -35,7 +35,7 @@
 		"leaderName": "Emory Minde",
 		"adjective": ["Cyben"],
 		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -59,7 +59,7 @@
 		"leaderName": "Bebe'tuss Agussus",
 		"adjective": ["Quacken"],
 		"startBias": ["Desert", "Fresh water", "Avoid [Tundra]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -83,7 +83,7 @@
 		"leaderName": "Baltz von Neumann",
 		"adjective": ["Jedaroan"],
 		"startBias": ["Grassland", "Forest", "Avoid [Desert]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -107,7 +107,7 @@
 		"leaderName": "Simeon von Neumann",
 		"adjective": ["Islanoan"],
 		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -131,7 +131,7 @@
 		"leaderName": "Kānius II",
 		"adjective": ["Revani"],
 		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -155,7 +155,7 @@
 		"leaderName": "Schaefers IV",
 		"adjective": ["Fathurian"],
 		"startBias": ["Desert", "Fresh water", "Avoid [Grassland]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -179,7 +179,7 @@
 		"leaderName": "Vladislava Elmira",
 		"adjective": ["Uruslav"],
 		"startBias": ["Tundra", "Forest", "Avoid [Coast]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -203,7 +203,7 @@
 		"leaderName": "Yeetullah Al-Isyo'i",
 		"adjective": ["Yeetian"],
 		"startBias": ["Grassland", "Jungle", "Avoid [Tundra]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
