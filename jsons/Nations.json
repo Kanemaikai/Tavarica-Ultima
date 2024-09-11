@@ -31,6 +31,30 @@
     "spyNames": [""]
    },
    {
+		"name": "Aurevia",
+		"leaderName": "Sojet-Nava Maljazof",
+		"adjective": ["Aurevian"],
+		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
+    "defeated": "",
+
+		"outerColor": [109, 0, 205],
+		"innerColor": [116, 163, 243],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Natajon"],
+    "spyNames": [""]
+   },
+   {
 		"name": "Cybenteralevestan",
 		"leaderName": "Emory Minde",
 		"adjective": ["Cyben"],
@@ -219,7 +243,7 @@
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
 		"uniques": [""],
-		"cities": ["Isyo"]
+		"cities": ["Isyo"],
     "spyNames": [""]
    },
 ]
