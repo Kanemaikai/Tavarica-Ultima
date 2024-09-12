@@ -119,8 +119,8 @@
 		"attacked": "",
     "defeated": "",
 
-		"outerColor": [249, 249, 249],
-		"innerColor": [121, 61, 3],
+		"outerColor": [203, 23, 24],
+		"innerColor": [249, 249, 249],
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Metro-Hydra"],
