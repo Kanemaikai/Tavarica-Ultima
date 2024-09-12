@@ -104,7 +104,7 @@
    },
    {
 		"name": "Ferda",
-		"leaderName": "Seymour P. Ozy",
+		"leaderName": "Seymour P Ozy",
 		"adjective": ["Ferdan"],
 		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
@@ -172,6 +172,54 @@
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Ofanburg"],
+    "spyNames": [""]
+   },
+   {
+		"name": "Nordfert",
+		"leaderName": "Harold Torskadz",
+		"adjective": ["Nordfertian"],
+		"startBias": ["Tundra", "Coast", "Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
+    "defeated": "",
+
+		"outerColor": [4, 44, 109],
+		"innerColor": [247, 216, 3],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Kaldgarsk"],
+    "spyNames": [""]
+   },
+   {
+		"name": "Pole",
+		"leaderName": "uhhh",
+		"adjective": ["uhhh"],
+		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
+    "defeated": "",
+
+		"outerColor": [4, 44, 109],
+		"innerColor": [247, 216, 3],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Florence"],
     "spyNames": [""]
    },
    {
