@@ -103,6 +103,30 @@
     "spyNames": [""]
    },
    {
+		"name": "Ferda",
+		"leaderName": "Seymour P. Ozy",
+		"adjective": ["Ferdan"],
+		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
+    "defeated": "",
+
+		"outerColor": [249, 249, 249],
+		"innerColor": [121, 61, 3],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Metro-Hydra"],
+    "spyNames": [""]
+   },
+   {
 		"name": "Gedaarland",
 		"leaderName": "Baltz von Neumann",
 		"adjective": ["Jedaroan"],
