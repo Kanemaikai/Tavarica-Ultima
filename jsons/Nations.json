@@ -192,7 +192,7 @@
     "defeated": "",
 
 		"outerColor": [4, 44, 109],
-		"innerColor": [247, 216, 3],
+		"innerColor": [203, 23, 24],
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Kaldgarsk"],
@@ -216,7 +216,7 @@
     "defeated": "",
 
 		"outerColor": [4, 44, 109],
-		"innerColor": [247, 216, 3],
+		"innerColor": [249, 249, 249],
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Florence"],
