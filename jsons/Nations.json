@@ -34,7 +34,7 @@
 		"name": "Aurevia",
 		"leaderName": "Sojet-Nava Maljazof",
 		"adjective": ["Aurevian"],
-		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
+		"startBias": ["Grassland", "Coast", "Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
@@ -178,7 +178,7 @@
 		"name": "Nordfert",
 		"leaderName": "Harold Torskadz",
 		"adjective": ["Nordfertian"],
-		"startBias": ["Tundra", "Coast", "Avoid [Desert]"],
+		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
