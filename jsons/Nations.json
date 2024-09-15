@@ -81,7 +81,7 @@
    {
 		"name": "Duckchestain",
 		"leaderName": "Bebe'tuss Agussus",
-		"adjective": ["Quacken"],
+		"adjective": ["Duchesse"], //legacy: Quacken
 		"startBias": ["Desert", "Fresh water", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
@@ -165,7 +165,7 @@
     "tradeRequest": "",
     "declaringWar": "",
 		"attacked": "",
-    "defeated": "",
+    "defeated": "Better dead than black",
 
 		"outerColor": [4, 44, 109],
 		"innerColor": [247, 216, 3],
@@ -184,7 +184,7 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		"introduction": "",
-		"neutralHello": "",
+		"neutralHello": "Duh enak banget bangke pantatnya Joni",
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
@@ -200,19 +200,19 @@
    },
    {
 		"name": "Polotskon",
-		"leaderName": "uhhh",
-		"adjective": ["uhhh"],
+		"leaderName": "Obestaad Navikod",
+		"adjective": ["Polotski"],
 		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
-		"introduction": "",
+		"introduction": "gimana masbro",
 		"neutralHello": "",
 		"hateHello": "",
-    "tradeRequest": "",
+    "tradeRequest": "oke gas oke gas",
     "declaringWar": "",
-		"attacked": "",
+		"attacked": "tidak semudah itu ferguso",
     "defeated": "",
 
 		"outerColor": [4, 44, 109],
@@ -260,8 +260,8 @@
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
-		"attacked": "",
-    "defeated": "Take my advice, kill yourself now.",
+		"attacked": "Take my advice, kill yourself now.",
+    "defeated": "",
 
 		"outerColor": [181, 181, 181],
 		"innerColor": [121, 1, 2],
@@ -284,7 +284,7 @@
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
-		"attacked": "",
+		"attacked": "You triggered my trap card, mobilization!",
     "defeated": "",
 
 		"outerColor": [120, 1, 2],
@@ -307,7 +307,7 @@
 		"neutralHello": "",
 		"hateHello": "",
     "tradeRequest": "",
-    "declaringWar": "",
+    "declaringWar": "I'm bombing revanori",
 		"attacked": "Inshaallah I shall take my revenge",
     "defeated": "",
 
