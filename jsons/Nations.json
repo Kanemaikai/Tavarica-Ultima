@@ -281,10 +281,10 @@
 		"startIntroPart2": "",
 		"introduction": "",
 		"neutralHello": "",
-		"hateHello": "State your reason to speak with me",
+		"hateHello": "Иди на хуй блять",
     "tradeRequest": "Your foreskin looks rust... I can fix that!",
-    "declaringWar": "Иди на хуй",
-		"attacked": "You triggered my trap card, mobilization!",
+    "declaringWar": ""You triggered my trap card, mobilization!",
+		"attacked": "Is this enemy of the state serious? Does he not know we're gonna interrogate and repress him?",
     "defeated": "",
 
 		"outerColor": [120, 1, 2],
