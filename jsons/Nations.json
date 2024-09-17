@@ -77,7 +77,7 @@
 		"uniques": [""],
 		"cities": ["Teraleva"],
     "spyNames": [""]
-   }
+   },
    {
 		"name": "Duckchestain",
 		"leaderName": "Bebe'tuss Agussus",
@@ -317,5 +317,5 @@
 		"uniques": [""],
 		"cities": ["Isyo"],
     "spyNames": [""]
-   },
+   }
 ]
