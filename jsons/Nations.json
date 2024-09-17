@@ -19,8 +19,8 @@
 		"neutralHello": "awooga",
 		"hateHello": "BARK BARK GRRRRRRR",
     "tradeRequest": "Arf arf arf kafka",
-    "declaringWar": "",
-		"attacked": "",
+    "declaringWar": "Oooga mooga gib fem scara or y ded",
+		"attacked": "Oooga mooga dont take fem scara or y ded",
     "defeated": "",
 
 		"outerColor": [22, 108, 49],
@@ -283,7 +283,7 @@
 		"neutralHello": "",
 		"hateHello": "Иди на хуй блять",
     "tradeRequest": "Your foreskin looks rust... I can fix that!",
-    "declaringWar": ""You triggered my trap card, mobilization!",
+    "declaringWar": "You triggered my trap card, mobilization!",
 		"attacked": "Is this enemy of the state serious? Does he not know we're gonna interrogate and repress him?",
     "defeated": "",
 
