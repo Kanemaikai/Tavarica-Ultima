@@ -15,12 +15,12 @@
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
-		"introduction": "unga bunga",
-		"neutralHello": "awooga",
-		"hateHello": "BARK BARK GRRRRRRR",
-    "tradeRequest": "Arf arf arf kafka",
-    "declaringWar": "Oooga mooga gib fem scara or y ded",
-		"attacked": "Oooga mooga dont take fem scara or y ded",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
     "defeated": "",
 
 		"outerColor": [22, 108, 49],
@@ -64,8 +64,8 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		"introduction": "",
-		"neutralHello": "Ta'gh fara'qha fel d'amar det!",
-		"hateHello": "NAR 'SIE TOK-LYR RQA-NAP G'OLT-ULOFT!!",
+		"neutralHello": "",
+		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
 		"attacked": "",
@@ -81,7 +81,7 @@
    {
 		"name": "Duckchestain",
 		"leaderName": "Bebe'tuss Agussus",
-		"adjective": ["Duchesse"], //legacy: Quacken
+		"adjective": ["Quacken"],
 		"startBias": ["Desert", "Fresh water", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
@@ -165,12 +165,18 @@
     "tradeRequest": "",
     "declaringWar": "",
 		"attacked": "",
-    "defeated": "Better dead than black",
+    "defeated": "",
 
 		"outerColor": [4, 44, 109],
 		"innerColor": [247, 216, 3],
-		"uniqueName": "",
-		"uniques": [""],
+		"uniqueName": "Every Man a Prince",
+		"uniques": [
+			"[+25]% [Culture], [+25]% [Production] in this city <during We Love The King Day>",
+			"[+1 Happiness] from Trade Routes",
+			"[+50]% Food consumption by specialists [in all cities]",
+			"[+15]% Production when constructing [Water] units [in all cities]",
+			"[+1] Sight for water units"
+		],
 		"cities": ["Ofanburg"],
     "spyNames": [""]
    },
@@ -183,12 +189,12 @@
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
-		"introduction": "Duh enak banget bangke pantatnya Joni",
-		"neutralHello": "gimana masbro",
+		"introduction": "",
+		"neutralHello": "",
 		"hateHello": "",
-    "tradeRequest": "oke gas oke gas",
+    "tradeRequest": "",
     "declaringWar": "",
-		"attacked": "tidak semudah itu ferguso",
+		"attacked": "",
     "defeated": "",
 
 		"outerColor": [4, 44, 109],
@@ -200,8 +206,8 @@
    },
    {
 		"name": "Polotskon",
-		"leaderName": "Obestaad Navikod",
-		"adjective": ["Polotski"],
+		"leaderName": "uhhh",
+		"adjective": ["uhhh"],
 		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
@@ -213,7 +219,7 @@
     "tradeRequest": "",
     "declaringWar": "",
 		"attacked": "",
-    "defeated": "Polotskon is not yet lost!",
+    "defeated": "",
 
 		"outerColor": [4, 44, 109],
 		"innerColor": [249, 249, 249],
@@ -260,8 +266,8 @@
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
-		"attacked": "Take my advice, kill yourself now.",
-    "defeated": "",
+		"attacked": "",
+    "defeated": "Take my advice, kill yourself now.",
 
 		"outerColor": [181, 181, 181],
 		"innerColor": [121, 1, 2],
@@ -281,10 +287,10 @@
 		"startIntroPart2": "",
 		"introduction": "",
 		"neutralHello": "",
-		"hateHello": "Иди на хуй блять",
-    "tradeRequest": "Your foreskin looks rust... I can fix that!",
-    "declaringWar": "You triggered my trap card, mobilization!",
-		"attacked": "Is this enemy of the state serious? Does he not know we're gonna interrogate and repress him?",
+		"hateHello": "",
+    "tradeRequest": "",
+    "declaringWar": "",
+		"attacked": "",
     "defeated": "",
 
 		"outerColor": [120, 1, 2],
@@ -307,7 +313,7 @@
 		"neutralHello": "",
 		"hateHello": "",
     "tradeRequest": "",
-    "declaringWar": "I'm bombing Revanori",
+    "declaringWar": "",
 		"attacked": "Inshaallah I shall take my revenge",
     "defeated": "",
 
