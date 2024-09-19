@@ -321,7 +321,9 @@
 		"outerColor": [51, 51, 51],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": [
+"May capture killed [All] units <within [5] tiles of a [Holy site]>"
+],
 		"cities": ["Isyo"],
     "spyNames": [""]
    }
