@@ -171,12 +171,7 @@
 		"innerColor": [247, 216, 3],
 		"uniqueName": "Every Man a Prince",
 		"uniques": [
-			"[+25]% [Culture] [in this city] <during We Love The King Day>",
-			"[+25]% [Production] [in this city] <during We Love The King Day>",
-			"[+1 Happiness] from each Trade Route",
-			"[+50]% Food consumption by specialists [in all cities]",
-			"[+15]% Production when constructing [Water] units [in all cities]",
-			"[+1] Sight <for [Water] units>"
+			""
 		],
 		"cities": ["Ofanburg"],
     "spyNames": [""]
@@ -321,9 +316,7 @@
 		"outerColor": [51, 51, 51],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
-		"uniques": [
-"May capture killed [All] units <within [5] tiles of a [Holy site]>"
-],
+		"uniques": [""],
 		"cities": ["Isyo"],
     "spyNames": [""]
    }
