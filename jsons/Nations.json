@@ -171,7 +171,9 @@
 		"innerColor": [247, 216, 3],
 		"uniqueName": "Every Man a Prince",
 		"uniques": [
-			""
+			"Enables embarkation for land units <before discovering [Optics]>",
+			"[-5] Movement <for [Embarked] units><before discovering [Optics]>",
+			"[-5] Sight <for [Embarked] units><before discovering [Optics]>"
 		],
 		"cities": ["Ofanburg"],
     "spyNames": [""]
