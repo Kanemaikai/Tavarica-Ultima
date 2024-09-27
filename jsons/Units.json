@@ -1,0 +1,16 @@
+        {
+                "name": "KDÜ-40 Attacker Nugas",
+                "unitType": "Bomber",
+                "movement": 1,
+                "strength": 55,
+                "rangedStrength": 55,
+                "range": 9,
+                "interceptRange": 8,
+                "cost": 0,
+                "requiredTech": "Radar",
+                //"requiredResource": "Oil",
+                //"upgradesTo": "Jet Fighter",
+                "uniques": ["[50]% chance to intercept air attacks", 
+"[+75]% Strength <vs [Armored] units>", 
+                "attackSound": "machinegun"
+        
