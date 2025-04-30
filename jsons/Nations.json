@@ -16,7 +16,7 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		"introduction": "",
-		"neutralHello": "linggang guli guli gwacha linggang gu linggang gu",
+		"neutralHello": "",
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
@@ -30,6 +30,7 @@
 		"cities": ["Anthuwuni"],
     "spyNames": [""]
    },
+   
    /*{
 		"name": "Aurevia",
 		"leaderName": "Sojet-Nava Maljazof",
@@ -54,6 +55,7 @@
 		"cities": ["Natajon"],
     "spyNames": [""]
    },*/
+   
    {
 		"name": "Cybenteralevestan",
 		"leaderName": "Emory Minde",
@@ -102,6 +104,8 @@
 		"cities": ["Ente Holzstürrath"],
     "spyNames": [""]
    },
+   
+   /*
    {
 		"name": "Ferda",
 		"leaderName": "Seymour P Ozy",
@@ -126,6 +130,8 @@
 		"cities": ["Metro-Hydra"],
     "spyNames": [""]
    },
+   */
+   
    {
 		"name": "Gedaarland",
 		"leaderName": "Baltz von Neumann",
@@ -170,14 +176,12 @@
 		"outerColor": [4, 44, 109],
 		"innerColor": [247, 216, 3],
 		"uniqueName": "Every Man a Prince",
-		"uniques": [
-			"Enables embarkation for land units <before discovering [Optics]>",
-			"[-5] Movement <for [Embarked] units><before discovering [Optics]>",
-			"[-5] Sight <for [Embarked] units><before discovering [Optics]>"
-		],
+		"uniques": [""],
 		"cities": ["Ofanburg"],
     "spyNames": [""]
    },
+   
+   /*
    {
 		"name": "Nordfert",
 		"leaderName": "Harold Torskadz",
@@ -202,6 +206,8 @@
 		"cities": ["Kaldgarsk"],
     "spyNames": [""]
    },
+   */
+   /*
    {
 		"name": "Polotskon",
 		"leaderName": "uhhh",
@@ -226,6 +232,7 @@
 		"cities": ["Florence"],
     "spyNames": [""]
    },
+   */
    {
 		"name": "Revanori",
 		"leaderName": "Kānius II",
@@ -265,7 +272,7 @@
     "tradeRequest": "",
     "declaringWar": "",
 		"attacked": "",
-    "defeated": "Take my advice, kill yourself now.",
+    "defeated": "",
 
 		"outerColor": [181, 181, 181],
 		"innerColor": [121, 1, 2],
@@ -312,7 +319,7 @@
 		"hateHello": "",
     "tradeRequest": "",
     "declaringWar": "",
-		"attacked": "Inshaallah I shall take my revenge",
+		"attacked": "",
     "defeated": "",
 
 		"outerColor": [51, 51, 51],
