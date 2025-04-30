@@ -22,9 +22,8 @@
     "declaringWar": "",
 		"attacked": "",
     "defeated": "",
-
-		"outerColor": [22, 108, 49],
-		"innerColor": [134, 26, 27],
+		"outerColor": [0, 153, 0],
+		"innerColor": [191, 0, 0],
 		"uniqueName": "",
 		"uniques": [""],
 		"cities": ["Anthuwuni"],
