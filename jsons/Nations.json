@@ -30,7 +30,7 @@
 		"cities": ["Anthuwuni"],
     "spyNames": [""]
    },
-   {
+   /*{
 		"name": "Aurevia",
 		"leaderName": "Sojet-Nava Maljazof",
 		"adjective": ["Aurevian"],
@@ -53,7 +53,7 @@
 		"uniques": [""],
 		"cities": ["Natajon"],
     "spyNames": [""]
-   },
+   },*/
    {
 		"name": "Cybenteralevestan",
 		"leaderName": "Emory Minde",
