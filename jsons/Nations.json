@@ -325,5 +325,377 @@
 		"uniques": [""],
 		"cities": ["Isyo"],
     "spyNames": [""]
+   },
+   
+   //city-states  
+   
+   //cultured
+   {
+		"name": "Almahameru",
+		"adjective": ["Almahameri"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204, 0, 204],
+		"cities": ["Almahameru"]
+   },
+   {
+		"name": "Chevenburg",
+		"adjective": ["Chevenburgian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [147, 87, 136],
+		"cities": ["Chevenburg"]
+   },
+   {
+		"name": "Harrenhall",
+		"adjective": ["Harrenhallian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [152, 88, 228],
+		"cities": ["Harrenhall"]
+   },
+   {
+		"name": "Hisconilla",
+		"adjective": ["Hisconillese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204, 121, 199],
+		"cities": ["Hisconilla"]
+   },
+   {
+		"name": "Preslow",
+		"adjective": ["Preslovian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [132, 9, 95],
+		"cities": ["Preslow"]
+   },
+   {
+		"name": "Symphonia",
+		"adjective": ["Symphonian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [188, 167, 232],
+		"cities": ["Symphonia"]
+   },
+   
+   //maritime
+   {
+		"name": "Dayuh",
+		"adjective": ["Dayuhi"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [102, 204, 0],
+		"cities": ["Dayuh"]
+   },
+   {
+		"name": "Ecosis",
+		"adjective": ["Ecosis"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [122, 229, 44],
+		"cities": ["Ecosis"]
+   },
+   {
+		"name": "Fshwrdia",
+		"adjective": ["Fshwrdian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [5, 108, 53],
+		"cities": ["Fshwrdia"]
+   },
+   {
+		"name": "Pegon Raya",
+		"adjective": ["Pegonese"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [102, 153, 0],
+		"cities": ["Pegon Raya"]
+   },
+   {
+		"name": "Plapho",
+		"adjective": ["Plaphonian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [140, 184, 0],
+		"cities": ["Plapho"]
+   },
+   {
+		"name": "Silveria",
+		"adjective": ["Silverian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [191, 217, 59],
+		"cities": ["Silveria"]
+   },
+   
+   //mercantile
+   {
+		"name": "Glavis",
+		"adjective": ["Glavis"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209, 202, 28],
+		"cities": ["Glavis"]
+   },
+   {
+		"name": "Katsrui",
+		"adjective": ["Katsruite"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [239, 217, 4],
+		"cities": ["Katsrui"]
+   },
+   {
+		"name": "Miltyaso",
+		"adjective": ["Miltyasoan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 247, 72],
+		"cities": ["Miltyaso"]
+   },
+   {
+		"name": "Polqung",
+		"adjective": ["Polqungese"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 213, 150],
+		"cities": ["Polqung"]
+   },
+   {
+		"name": "Sarkin",
+		"adjective": ["Sarkinian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 196, 107],
+		"cities": ["Sarkin"]
+   },
+   {
+		"name": "Zandore",
+		"adjective": ["Zandorean"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 169, 45],
+		"cities": ["Zandore"]
+   },
+   
+   //militaristic 
+   {
+		"name": "Derezin",
+		"adjective": ["Derezinian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [191, 20, 27],
+		"cities": ["Derezin"]
+   },
+   {
+		"name": "Dontreit",
+		"adjective": ["Dontreite"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 87, 58],
+		"cities": ["Dontreit"]
+   },
+   {
+		"name": "Dreistadt",
+		"adjective": ["Dreistadtian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [231, 39, 39],
+		"cities": ["Dreistadt"]
+   },
+   {
+		"name": "Hallegia",
+		"adjective": ["Hallegian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 93, 93],
+		"cities": ["Hallegia"]
+   },
+   {
+		"name": "Trinity City",
+		"adjective": ["Trinitian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 27, 27],
+		"cities": ["Trinity City"]
+   },
+   {
+		"name": "Weltallvolken",
+		"adjective": ["Weltallvolken"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [236, 59, 59],
+		"cities": ["Weltallvolken"]
+   },
+   
+   //religious 
+   {
+		"name": "Catruchia",
+		"adjective": ["Catruchian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 153, 255],
+		"cities": ["Catruchia"]
+   },
+   {
+		"name": "Narvalia",
+		"adjective": ["Narvalian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [47, 210, 198],
+		"cities": ["Narvalia"]
+   },
+   {
+		"name": "Nkabom Jorderm",
+		"adjective": ["Nkabom Jordermian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [102, 255, 255],
+		"cities": ["Nkabom Jorderm"]
+   },
+   {
+		"name": "Ryeloine",
+		"adjective": ["Ryeloinian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 153, 204],
+		"cities": ["Ryeloine"]
+   },
+   {
+		"name": "Surayamarta",
+		"adjective": ["Surayamartan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [58, 170, 171],
+		"cities": ["Surayamarta"]
+   },
+   {
+		"name": "Valatican",
+		"adjective": ["Valatican"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 102, 255],
+		"cities": ["Valatican"]
    }
 ]
