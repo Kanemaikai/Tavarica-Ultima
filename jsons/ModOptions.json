@@ -1,3 +1,6 @@
 {
-  "nationsToRemove": ["Major"],
+
+	"isBaseRuleset": false,
+	"nationsToRemove": ["Major","City-States"],
+
 }
