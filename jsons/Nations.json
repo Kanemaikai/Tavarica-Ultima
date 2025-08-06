@@ -1,10 +1,11 @@
 [
+
    // Spectator
 
     	{
     		"name": "Spectator",
     		"outerColor": [255,255,255]
-		"innerColor": [0, 0, 0],
+		"innerColor": [0,0,0],
     	},
     
 
@@ -14,7 +15,7 @@
 		"name": "Anthu Oyera",
 		"leaderName": "Mandolo Mbasufa",
 		"adjective": ["Anthuyi"],
-		"startBias": ["Plains", "Hill", "Avoid [Tundra]"],
+		"startBias": ["Plains","Hill","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "",
@@ -28,8 +29,8 @@
 		"attacked": "",
   		"defeated": "",
 	   
-		"outerColor": [0, 153, 0],
-		"innerColor": [191, 0, 0],
+		"outerColor": [0,134,0],
+		"innerColor": [137,19,19],
 	   
 		"uniqueName": "",
 		"uniques": [""],
@@ -40,7 +41,7 @@
 		"name": "Aurevia",
 		"leaderName": "Sojet-Nava Maljazof",
 		"adjective": ["Aurevian"],
-		"startBias": ["Grassland", "Coast", "Avoid [Desert]"],
+		"startBias": ["Grassland","Coast","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
@@ -54,8 +55,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [152, 161, 249],
-		"innerColor": [4, 44, 109],
+		"outerColor": [55,0,101],
+		"innerColor": [181,27,79],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -66,7 +67,7 @@
 		"name": "Cybenteralevestan",
 		"leaderName": "Emory Minde",
 		"adjective": ["Cyben"],
-		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
+		"startBias": ["Tundra","Forest","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
@@ -80,8 +81,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [56, 4, 102],
-		"innerColor": [254, 2, 254],
+		"outerColor": [208,34,87],
+		"innerColor": [28,28,28],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -92,7 +93,7 @@
 		"name": "Duckchestain",
 		"leaderName": "Bebe'tuss Agussus",
 		"adjective": ["Quacken"],
-		"startBias": ["Desert", "Fresh water", "Avoid [Tundra]"],
+		"startBias": ["Desert","Fresh water","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -106,8 +107,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [249, 249, 249],
-		"innerColor": [121, 61, 3],
+		"outerColor": [249,249,249],
+		"innerColor": [89,66,42],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -116,9 +117,9 @@
    	},
    	{
 		"name": "Ferda",
-		"leaderName": "Seymour P Ozy",
+		"leaderName": "Seymour P. Ozy",
 		"adjective": ["Ferdan"],
-		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
+		"startBias": ["Tundra","Forest","Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -132,8 +133,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [203, 23, 24],
-		"innerColor": [249, 249, 249],
+		"outerColor": [66,66,66],
+		"innerColor": [224,224,224],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -144,7 +145,7 @@
 		"name": "Gedaarland",
 		"leaderName": "Baltz von Neumann",
 		"adjective": ["Jedaroan"],
-		"startBias": ["Grassland", "Forest", "Avoid [Desert]"],
+		"startBias": ["Grassland","Forest","Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -158,8 +159,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [254, 179, 61],
-		"innerColor": [4, 44, 109],
+		"outerColor": [225,96,0],
+		"innerColor": [120,0,1],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -170,7 +171,7 @@
 		"name": "Islanoa",
 		"leaderName": "Simeon von Neumann",
 		"adjective": ["Islanoan"],
-		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
+		"startBias": ["Plains","Coast","Avoid [Tundra]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -184,8 +185,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [4, 44, 109],
-		"innerColor": [247, 216, 3],
+		"outerColor": [245,212,19],
+		"innerColor": [38,70,133],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -196,7 +197,7 @@
 		"name": "Nordfert",
 		"leaderName": "Harold Torskadz",
 		"adjective": ["Nordfertian"],
-		"startBias": ["Tundra", "Forest", "Avoid [Desert]"],
+		"startBias": ["Tundra","Forest","Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -210,8 +211,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [4, 44, 109],
-		"innerColor": [203, 23, 24],
+		"outerColor": [36,38,117],
+		"innerColor": [200,0,1],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -220,9 +221,9 @@
    	},
    	{
 		"name": "Polotskon",
-		"leaderName": "uhhh",
-		"adjective": ["uhhh"],
-		"startBias": ["Plains", "Coast", "Avoid [Desert]"],
+		"leaderName": "???",
+		"adjective": ["Polotsk"],
+		"startBias": ["Plains","Coast","Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -236,8 +237,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [4, 44, 109],
-		"innerColor": [249, 249, 249],
+		"outerColor": [4,63,121],
+		"innerColor": [250,236,127],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -248,7 +249,7 @@
 		"name": "Revanori",
 		"leaderName": "Kānius II",
 		"adjective": ["Revani"],
-		"startBias": ["Plains", "Coast", "Avoid [Tundra]"],
+		"startBias": ["Plains","Coast","Avoid [Tundra]"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -262,8 +263,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [117, 1, 116],
-		"innerColor": [249, 249, 249],
+		"outerColor": [246,251,255],
+		"innerColor": [230,26,26],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -274,7 +275,7 @@
 		"name": "Sor Fathur",
 		"leaderName": "Schaefers IV",
 		"adjective": ["Fathurian"],
-		"startBias": ["Desert", "Fresh water", "Avoid [Grassland]"],
+		"startBias": ["Desert","Fresh water","Avoid [Grassland]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -288,8 +289,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [181, 181, 181],
-		"innerColor": [121, 1, 2],
+		"outerColor": [105,34,34],
+		"innerColor": [224,224,224],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -300,7 +301,7 @@
 		"name": "Uruslavya",
 		"leaderName": "Vladislava Elmira",
 		"adjective": ["Uruslav"],
-		"startBias": ["Tundra", "Forest", "Avoid [Coast]"],
+		"startBias": ["Tundra","Forest","Avoid [Coast]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -314,8 +315,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [120, 1, 2],
-		"innerColor": [117, 163, 243],
+		"outerColor": [191,32,32],
+		"innerColor": [104,179,235],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -326,7 +327,7 @@
 		"name": "Yeet Order",
 		"leaderName": "Yeetullah Al-Isyo'i",
 		"adjective": ["Yeetian"],
-		"startBias": ["Grassland", "Jungle", "Avoid [Tundra]"],
+		"startBias": ["Grassland","Jungle","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
@@ -340,8 +341,8 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [51, 51, 51],
-		"innerColor": [249, 249, 249],
+		"outerColor": [37,47,37],
+		"innerColor": [249,249,249],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -363,22 +364,9 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [204, 0, 204],
+		"outerColor": [0,0,0],
+		"innerColor": [204,0,204],
 		"cities": ["Almahameru"]
-   	},
-   	{
-		"name": "Chevenburg",
-		"adjective": ["Chevenburgian"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-
-		"outerColor": [0, 0, 0],
-		"innerColor": [147, 87, 136],
-		"cities": ["Chevenburg"]
    	},
    	{
 		"name": "Harrenhall",
@@ -389,8 +377,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [152, 88, 228],
+		"outerColor": [0,0,0],
+		"innerColor": [152,88,228],
 		"cities": ["Harrenhall"]
    	},
    	{
@@ -402,8 +390,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [204, 121, 199],
+		"outerColor": [0,0,0],
+		"innerColor": [204,121,199],
 		"cities": ["Hisconilla"]
    	},
    	{
@@ -415,8 +403,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [132, 9, 95],
+		"outerColor": [0,0,0],
+		"innerColor": [132,9,95],
 		"cities": ["Preslow"]
    	},
    	{
@@ -428,10 +416,23 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [188, 167, 232],
+		"outerColor": [0,0,0],
+		"innerColor": [188,167,232],
 		"cities": ["Symphonia"]
    	},
+   	{
+		"name": "Weltallvolken",
+		"adjective": ["Weltallvolken"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [147,87,136],
+		"cities": ["Weltallvolken"]
+   	}
    
 
      // Maritime
@@ -445,8 +446,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [102, 204, 0],
+		"outerColor": [0,0,0],
+		"innerColor": [102,204,0],
 		"cities": ["Dayuh"]
    	},
    	{
@@ -458,8 +459,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [122, 229, 44],
+		"outerColor": [0,0,0],
+		"innerColor": [122,229,44],
 		"cities": ["Ecosis"]
    	},
    	{
@@ -471,8 +472,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [5, 108, 53],
+		"outerColor": [0,0,0],
+		"innerColor": [5,108,53],
 		"cities": ["Fshwrdia"]
    	},
    	{
@@ -484,8 +485,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [102, 153, 0],
+		"outerColor": [0,0,0],
+		"innerColor": [102,153,0],
 		"cities": ["Pegon Raya"]
    	},
    	{
@@ -497,8 +498,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [140, 184, 0],
+		"outerColor": [0,0,0],
+		"innerColor": [140,184,0],
 		"cities": ["Plapho"]
    	},
    	{
@@ -510,8 +511,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [191, 217, 59],
+		"outerColor": [0,0,0],
+		"innerColor": [191,217,59],
 		"cities": ["Silveria"]
    	},
    
@@ -527,8 +528,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [209, 202, 28],
+		"outerColor": [0,0,0],
+		"innerColor": [209,202,28],
 		"cities": ["Glavis"]
    	},
    	{
@@ -540,8 +541,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [239, 217, 4],
+		"outerColor": [0,0,0],
+		"innerColor": [239,217,4],
 		"cities": ["Katsrui"]
    	},
    	{
@@ -553,8 +554,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 247, 72],
+		"outerColor": [0,0,0],
+		"innerColor": [255,247,72],
 		"cities": ["Miltyaso"]
    	},
    	{
@@ -566,8 +567,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 213, 150],
+		"outerColor": [0,0,0],
+		"innerColor": [255,213,150],
 		"cities": ["Polqung"]
    	},
    	{
@@ -579,8 +580,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 196, 107],
+		"outerColor": [0,0,0],
+		"innerColor": [255,196,107],
 		"cities": ["Sarkin"]
    	},
    	{
@@ -592,8 +593,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 169, 45],
+		"outerColor": [0,0,0],
+		"innerColor": [255,169,45],
 		"cities": ["Zandore"]
    	},
    
@@ -609,8 +610,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [191, 20, 27],
+		"outerColor": [0,0,0],
+		"innerColor": [191,20,27],
 		"cities": ["Derezin"]
    	},
    	{
@@ -622,8 +623,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 87, 58],
+		"outerColor": [0,0,0],
+		"innerColor": [255,87,58],
 		"cities": ["Dontreit"]
    	},
    	{
@@ -635,8 +636,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [231, 39, 39],
+		"outerColor": [0,0,0],
+		"innerColor": [231,39,39],
 		"cities": ["Dreistadt"]
    	},
    	{
@@ -648,9 +649,22 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 93, 93],
+		"outerColor": [0,0,0],
+		"innerColor": [255,93,93],
 		"cities": ["Hallegia"]
+   	},
+   	{
+		"name": "Razgrizia",
+		"adjective": ["Razgrizian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [236,59,59],
+		"cities": ["Razgrizia"]
    	},
    	{
 		"name": "Trinity City",
@@ -661,22 +675,9 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 27, 27],
+		"outerColor": [0,0,0],
+		"innerColor": [255,27,27],
 		"cities": ["Trinity City"]
-   	},
-   	{
-		"name": "Weltallvolken",
-		"adjective": ["Weltallvolken"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-
-		"outerColor": [0, 0, 0],
-		"innerColor": [236, 59, 59],
-		"cities": ["Weltallvolken"]
    	},
    
 
@@ -691,8 +692,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [51, 153, 255],
+		"outerColor": [0,0,0],
+		"innerColor": [51,153,255],
 		"cities": ["Catruchia"]
    	},
    	{
@@ -704,8 +705,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [47, 210, 198],
+		"outerColor": [0,0,0],
+		"innerColor": [47,210,198],
 		"cities": ["Narvalia"]
    	},
    	{
@@ -717,8 +718,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [102, 255, 255],
+		"outerColor": [0,0,0],
+		"innerColor": [102,255,255],
 		"cities": ["Nkabom Jorderm"]
    	},
    	{
@@ -730,8 +731,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 153, 204],
+		"outerColor": [0,0,0],
+		"innerColor": [0,153,204],
 		"cities": ["Ryeloine"]
    	},
    	{
@@ -743,8 +744,8 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [58, 170, 171],
+		"outerColor": [0,0,0],
+		"innerColor": [58,170,171],
 		"cities": ["Surayamarta"]
    	},
    	{
@@ -756,12 +757,78 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [0, 102, 255],
+		"outerColor": [0,0,0],
+		"innerColor": [0,102,255],
 		"cities": ["Valatican"]
    	}
 
 
-   // Nation-States
+   // Unique (UNFINISHED)
+
+   	{
+		"name": "Chevenburg",
+		"adjective": ["Chevenburgian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [134,114,2],
+		"cities": ["Chevenburg"]
+   	},
+   	{
+		"name": "Ciel",
+		"adjective": ["Cielian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [38,70,133],
+		"cities": ["Ciel"]
+   	},
+   	{
+		"name": "Eurazan",
+		"adjective": ["Eurazani"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [103,73,49],
+		"cities": ["Eurazan"]
+   	},
+   	{
+		"name": "Henzergenia",
+		"adjective": ["Henzergenian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [205,141,141],
+		"cities": ["Henzergenia"]
+   	},
+   	{
+		"name": "Zura",
+		"adjective": ["Zuranese"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+
+		"outerColor": [0,0,0],
+		"innerColor": [51,82,67],
+		"cities": ["Zura"]
+   	}
 
 ]
