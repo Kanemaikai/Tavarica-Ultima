@@ -30,7 +30,7 @@
   		"defeated": "",
 	   
 		"outerColor": [7,110,39],
-		"innerColor": [225,48,0],
+		"innerColor": [220,47,47],
 	   
 		"uniqueName": "",
 		"uniques": [""],
@@ -56,7 +56,7 @@
     		"defeated": "",
 
 		"outerColor": [64,7,98],
-		"innerColor": [208,34,87],
+		"innerColor": [214,49,98],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -81,7 +81,7 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [208,34,87],
+		"outerColor": [214,49,98],
 		"innerColor": [17,17,17],
 
 		"uniqueName": "",
@@ -134,7 +134,7 @@
     		"defeated": "",
 
 		"outerColor": [130,130,130],
-		"innerColor": [224,27,27],
+		"innerColor": [220,47,47],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -160,7 +160,7 @@
     		"defeated": "",
 
 		"outerColor": [225,129,18],
-		"innerColor": [152,16,16],
+		"innerColor": [135,0,0],
 
 		"uniqueName": "",
 		"uniques": [""],
@@ -315,7 +315,7 @@
 		"attacked": "",
     		"defeated": "",
 
-		"outerColor": [204,0,1],
+		"outerColor": [191,32,32],
 		"innerColor": [104,206,235],
 
 		"uniqueName": "",
