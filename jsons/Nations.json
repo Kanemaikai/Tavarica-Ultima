@@ -30,7 +30,7 @@
   		"defeated": "",
 	   
 		"outerColor": [7,110,39],
-		"innerColor": [220,47,47],
+		"innerColor": [137,19,19],
 	   
 		"uniqueName": "",
 		"uniques": [""],
@@ -134,7 +134,7 @@
     		"defeated": "",
 
 		"outerColor": [130,130,130],
-		"innerColor": [220,47,47],
+		"innerColor": [191,32,32],
 
 		"uniqueName": "",
 		"uniques": [""],
